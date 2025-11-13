@@ -2,6 +2,7 @@
 using namespace std;
 
 int main() {
+    // Declare and initialize two integer variables
     int a = 10;
     int b = 5;
     int sum = a + b;
@@ -15,3 +16,4 @@ int main() {
     
     return 0;
 }
+

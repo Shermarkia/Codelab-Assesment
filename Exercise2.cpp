@@ -10,14 +10,14 @@ int main() {
     int sum = a + b;
     int difference = a - b;
     int product = a * b;
-    
-    
-    cout << "Sum: " << sum << endl;
+    // Display the results to the user
+     cout << "Sum: " << sum << endl;
     cout << "Difference: " << difference << endl;
     cout << "Product: " << product << endl;
 
     
     return 0;
 }
+
 
 
